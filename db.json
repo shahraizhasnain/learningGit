@@ -1,14 +1,14 @@
 {"items":[
-{"id":1,"cost":100, "acqYear":2010, "category":"Machinery & Equipment"},
-{"id":2,"cost":100, "acqYear":2010, "category":"Office Furniture & Equipment"},
-{"id":3,"cost":100, "acqYear":2010, "category":"Other Equipment"},
-{"id":4,"cost":100, "acqYear":2010, "category":"Tools"},
-{"id":5,"cost":100, "acqYear":2010, "category":"Molds"},
-{"id":6,"cost":100, "acqYear":2010, "category":"Dies"},
-{"id":7,"cost":100, "acqYear":2010, "category":"Jigs"},
-{"id":8,"cost":100, "acqYear":2010, "category":"Personal Computer"},
-{"id":9,"cost":100, "acqYear":2010, "category":"IT Equipment"},
-{"id":10,"cost":100, "acqYear":2010, "category":"Machinery & Equipment"},
-{"id":11,"cost":100, "acqYear":2010, "category":"Other Equipment"},
-{"id":12,"cost":100, "acqYear":2010, "category":"Machinery & Equipment"}
+{"id":1,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Machinery & Equipment"},
+{"id":2,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Office Furniture & Equipment"},
+{"id":3,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Other Equipment"},
+{"id":4,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Tools"},
+{"id":5,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Molds"},
+{"id":6,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Dies"},
+{"id":7,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Jigs"},
+{"id":8,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Personal Computer"},
+{"id":9,"cost":100, "acquisitionYear":2010, "inventoryCategory":"IT Equipment"},
+{"id":10,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Machinery & Equipment"},
+{"id":11,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Other Equipment"},
+{"id":12,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Machinery & Equipment"}
 ]}
