@@ -1,6 +1,15 @@
-{
-  "items":[
-{"BusinessId":1, "StatementId":1, "BusinessType":"1", "OwnershipType":"1", "StartDate":"2021-01-23", "Location":"Michigan", "ContactName":"Jhon", "ContactNumber":"+12525265545", "PriorYearCost":"2000", "IsSecured":"true", "CurrentYearCost":"1999", "AcquisitionYear":"2018"},
-{"BusinessId":2, "StatementId":2, "BusinessType":"2", "OwnershipType":"2", "StartDate":"2021-01-24", "Location":"Ron", "ContactName":"Mon", "ContactNumber":"+88", "PriorYearCost":"20", "IsSecured":"false", "CurrentYearCost":"200", "AcquisitionYear":"2020"}
+{"items":[
+{"id":1,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Machinery & Equipment"},
+{"id":2,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Office Furniture & Equipment"},
+{"id":3,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Other Equipment"},
+{"id":4,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Tools"},
+{"id":5,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Molds"},
+{"id":6,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Dies"},
+{"id":7,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Jigs"},
+{"id":8,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Personal Computer"},
+{"id":9,"cost":100, "acquisitionYear":2010, "inventoryCategory":"IT Equipment"},
+{"id":10,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Machinery & Equipment"},
+{"id":11,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Other Equipment"},
+{"id":12,"cost":100, "acquisitionYear":2010, "inventoryCategory":"Machinery & Equipment"}
 ]
 }
