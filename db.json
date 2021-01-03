@@ -1,6 +1,6 @@
 {
   "items":[
 {"BusinessId":1, "StatementId":1, "BusinessType":"1", "OwnershipType":"1", "StartDate":"2021-01-23", "Location":"Michigan", "ContactName":"Jhon", "ContactNumber":"+12525265545", "PriorYearCost":"2000", "IsSecured":"true", "CurrentYearCost":"1999", "AcquisitionYear":"2018"},
-{"BusinessId":2, "StatementId":1, "BusinessType":"1", "OwnershipType":"1", "StartDate":"2021-01-23", "Location":"Michigan", "ContactName":"Jhon", "ContactNumber":"+12525265545", "PriorYearCost":"2000", "IsSecured":"true", "CurrentYearCost":"2000", "AcquisitionYear":"2018"}
+{"BusinessId":2, "StatementId":2, "BusinessType":"2", "OwnershipType":"2", "StartDate":"2021-01-24", "Location":"Ron", "ContactName":"Mon", "ContactNumber":"+88", "PriorYearCost":"20", "IsSecured":"false", "CurrentYearCost":"200", "AcquisitionYear":"2020"}
 ]
 }
