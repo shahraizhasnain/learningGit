@@ -1,12 +1,12 @@
 {"items":[
-{"id":"1","priorYearCost":"5000", "currentYearCost":"", "acquisitionYear":"2020"},
-{"id":"2","priorYearCost":"9000", "currentYearCost":"5000", "acquisitionYear":"2019"},
-{"id":"3","priorYearCost":"4000", "currentYearCost":"9000", "acquisitionYear":"2018"},
-{"id":"4","priorYearCost":"1500", "currentYearCost":"4000", "acquisitionYear":"2017"},
-{"id":"5","priorYearCost":"1000", "currentYearCost":"1500", "acquisitionYear":"2016"},
-{"id":"6","priorYearCost":"3000", "currentYearCost":"1000", "acquisitionYear":"2015"},
-{"id":"7","priorYearCost":"1999", "currentYearCost":"3000", "acquisitionYear":"2014"},
-{"id":"8","priorYearCost":"1000", "currentYearCost":"1999", "acquisitionYear":"2013"},
-{"id":"9","priorYearCost":"3000", "currentYearCost":"1000", "acquisitionYear":"2012"},
-{"id":"10","priorYearCost":"2000", "currentYearCost":"3000", "acquisitionYear":"2011"}
+{"id":"1", "businessId":"1", "statementId":"1", "priorYearCost":"5000", "currentYearCost":"", "acquisitionYear":"2020"},
+{"id":"2", "businessId":"1", "statementId":"1", "priorYearCost":"9000", "currentYearCost":"5000", "acquisitionYear":"2019"},
+{"id":"3", "businessId":"1", "statementId":"1", "priorYearCost":"4000", "currentYearCost":"9000", "acquisitionYear":"2018"},
+{"id":"4", "businessId":"1", "statementId":"1", "priorYearCost":"1500", "currentYearCost":"4000", "acquisitionYear":"2017"},
+{"id":"5", "businessId":"1", "statementId":"1", "priorYearCost":"1000", "currentYearCost":"1500", "acquisitionYear":"2016"},
+{"id":"6", "businessId":"1", "statementId":"1", "priorYearCost":"3000", "currentYearCost":"1000", "acquisitionYear":"2015"},
+{"id":"7", "businessId":"1", "statementId":"1", "priorYearCost":"1999", "currentYearCost":"3000", "acquisitionYear":"2014"},
+{"id":"8", "businessId":"1", "statementId":"1", "priorYearCost":"1000", "currentYearCost":"1999", "acquisitionYear":"2013"},
+{"id":"9", "businessId":"1", "statementId":"1", "priorYearCost":"3000", "currentYearCost":"1000", "acquisitionYear":"2012"},
+{"id":"10", "businessId":"1", "statementId":"1", "priorYearCost":"2000", "currentYearCost":"3000", "acquisitionYear":"2011"}
 ]}
