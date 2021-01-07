@@ -1,4 +1,12 @@
 {"items":[
-{"id":"1", "BusinessId":12, "StatementId":1, "BusinessType":1, "OwnershipType":1, "StartDate":"2021-01-23", "Location":"Michigan", "ContactName":"Jhon", "ContactNumber":"+12525265545", "PriorYearCost":"2000", "IsSecured":"true", "CurrentYearCost":"1999", "AcquisitionYear":"2018"},
-{"id":"2", "BusinessId":2, "StatementId":2, "BusinessType":2, "OwnershipType":2, "StartDate":"2021-01-24", "Location":"Ron", "ContactName":"Mon", "ContactNumber":"+88", "PriorYearCost":"20", "IsSecured":"false", "CurrentYearCost":"200", "AcquisitionYear":"2020"}
+{"id":"1","priorYearCost":"5000", "currentYearCost":"", "acquisitionYear":"2020"},
+{"id":"2","priorYearCost":"9000", "currentYearCost":"5000", "acquisitionYear":"2019"},
+{"id":"3","priorYearCost":"4000", "currentYearCost":"9000", "acquisitionYear":"2018"},
+{"id":"4","priorYearCost":"1500", "currentYearCost":"4000", "acquisitionYear":"2017"},
+{"id":"5","priorYearCost":"1000", "currentYearCost":"1500", "acquisitionYear":"2016"},
+{"id":"6","priorYearCost":"3000", "currentYearCost":"1000", "acquisitionYear":"2015"},
+{"id":"7","priorYearCost":"1999", "currentYearCost":"3000", "acquisitionYear":"2014"},
+{"id":"8","priorYearCost":"1000", "currentYearCost":"1999", "acquisitionYear":"2013"},
+{"id":"9","priorYearCost":"3000", "currentYearCost":"1000", "acquisitionYear":"2012"},
+{"id":"10","priorYearCost":"2000", "currentYearCost":"3000", "acquisitionYear":"2011"},
 ]}
