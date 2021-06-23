@@ -1,12 +1,170 @@
-{"items":[
-{"id":"1", "businessId":"1", "priorYearCost":"5000", "currentYearCost":"", "acquisitionYear":"2020"},
-{"id":"2", "businessId":"1", "priorYearCost":"9000", "currentYearCost":"5000", "acquisitionYear":"2019"},
-{"id":"3", "businessId":"1", "priorYearCost":"4000", "currentYearCost":"9000", "acquisitionYear":"2018"},
-{"id":"4", "businessId":"1", "priorYearCost":"1500", "currentYearCost":"4000", "acquisitionYear":"2017"},
-{"id":"5", "businessId":"1", "priorYearCost":"1000", "currentYearCost":"1500", "acquisitionYear":"2016"},
-{"id":"6", "businessId":"1", "priorYearCost":"3000", "currentYearCost":"1000", "acquisitionYear":"2015"},
-{"id":"7", "businessId":"1", "priorYearCost":"1999", "currentYearCost":"3000", "acquisitionYear":"2014"},
-{"id":"8", "businessId":"1", "priorYearCost":"1000", "currentYearCost":"1999", "acquisitionYear":"2013"},
-{"id":"9", "businessId":"1", "priorYearCost":"3000", "currentYearCost":"1000", "acquisitionYear":"2012"},
-{"id":"10", "businessId":"1", "priorYearCost":"2000", "currentYearCost":"3000", "acquisitionYear":"2011"}
-]}
+{
+	"currentStepIndex": 0,
+	"isValid": true,
+	"parcelCutTypeModel": {
+		"cutType": {
+			"id": 1,
+			"description": "CA - CONVEYANCE OF PROPERTY (DEED)"
+		},
+		"cutCategory": {
+			"id": 2,
+			"code": "1",
+			"description": "1 - REGULAR SEGREGATION"
+		},
+		"sendCorrespondence": false,
+		"generatedParcelCutNumber": "2022001061",
+		"oldCutType": {
+			"id": 1,
+			"description": "CA - CONVEYANCE OF PROPERTY (DEED)"
+		}
+	},
+	"verifyInformationModel": {
+		"propertyInfo": [{
+			"aPNInfo": {
+				"propertyId": 33842,
+				"apn": "1290914400"
+			},
+			"tra": {
+				"traNumber": "094079",
+				"traDescription": "VALLEY CENTER-PAUMA UNIFIED",
+				"traId": 0,
+				"fullDescription": "094079 - VALLEY CENTER-PAUMA UNIFIED"
+			},
+			"taxableStatus": {
+				"id": 1,
+				"code": "T",
+				"description": "Taxable"
+			},
+			"effectiveDate": "2021-06-20T07:00:00.000Z",
+			"queueItemEffectiveDate": "2021-06-20T07:00:00.000Z",
+			"queueItemCreatedDate": "2021-06-21T00:07:38.643Z",
+			"documentDate": "2021-06-21T00:07:38.643Z",
+			"documentNumber": "U-2021-09722306",
+			"documentId": 9722306,
+			"documentType": "DEED",
+			"parties": [{
+				"combinedName": "KELLY, PAUL J",
+				"roleType": "Owner",
+				"partySubType": "Unmarried Man",
+				"partyStatus": "No Status",
+				"isPrimaryParty": true
+			}],
+			"landUseCode": {
+				"code": "111",
+				"description": "SINGLE FAMILY RESIDENCE",
+				"id": 44,
+				"status": null
+			},
+			"landSize": 11.32,
+			"taxDelinquency": false,
+			"propertyDetails": {
+				"propertyId": 33842,
+				"description": "SEC 25-10-2W*SWQ*DOC81-63943 IN NWQ OF ",
+				"descriptionJson": {
+					"code": "4",
+					"section": null,
+					"range": null,
+					"township": null,
+					"additionalFreeform": "SEC 25-10-2W*SWQ*DOC81-63943 IN NWQ OF ",
+					"generatedDescription": "SEC 25-10-2W*SWQ*DOC81-63943 IN NWQ OF "
+				},
+				"mapType": {
+					"code": "SE",
+					"description": "SE - SECTIONAL (NO MAP NUMBER)",
+					"id": 12,
+					"status": null
+				},
+				"situsAddress": "13204 HILLSTAR LN, VALLEY CENTER CA 92082-3409",
+				"city": "VALLEY CENTER",
+				"state": "CA",
+				"zip": "92082",
+				"streetNumber": "13204",
+				"streetName": "HILLSTAR",
+				"fractional": "",
+				"predirectional": "",
+				"streetType": "LN",
+				"unitNumber": "",
+				"unitType": "",
+				"postdirectional": "",
+				"postalCodeExtension": "3409",
+				"streetNumberThrough": "",
+				"assessmentAuthority": "County Assessed",
+				"propertyType": {
+					"code": "P",
+					"description": "P - Parcel",
+					"id": 10,
+					"status": null
+				},
+				"propertyMailingAddress": {
+					"id": 666617,
+					"freeFormAddressLine1": "",
+					"freeFormAddressLine2": "",
+					"freeFormAddressLine3": "13204 HILLSTAR LN",
+					"freeFormAddressLine4": "VALLEY CENTER CA 92082-3409"
+				},
+				"partyMailingAddressId": 2483218
+			},
+			"propertyTypeCode": "P",
+			"propertyTypeDescription": "Parcel",
+			"exemptions": [{
+				"code": "9",
+				"description": "HOMEOWNERS",
+				"id": 31287,
+				"status": true
+			}],
+			"cutNumber": null,
+			"apnRelationshipType": {
+				"code": "Parent",
+				"description": "Parent",
+				"id": 3,
+				"status": null
+			},
+			"propertyDescriptionType": {
+				"code": "4",
+				"description": "4 - SECTION LAND",
+				"id": 4,
+				"status": null
+			},
+			"cutDocumentNumber": null,
+			"recordGroup": null,
+			"parNumber": "44",
+			"subId": "00"
+		}],
+		"apnRelationValid": true
+	},
+	"parcelCutGeneratorModel": {
+		"parcelCutNumbers": ["0011111100"]
+	},
+	"parcelCutChildUpdateGridModel": {
+		"childParcelGrid": [{
+			"verified": false,
+			"recordGroup": 1,
+			"propertyDescription": "",
+			"preDirectional": "",
+			"streetName": "",
+			"streetType": "",
+			"postDirectional": "",
+			"unitType": "",
+			"situsUnitNumber": "",
+			"parNumber": "11",
+			"subId": "00",
+			"taxableStatus": {},
+			"city": "",
+			"state": "CA",
+			"generatedPropertyDescription": {},
+			"parties": [],
+			"parcelType": {
+				"code": "P",
+				"description": "P - Parcel",
+				"id": 10,
+				"status": null
+			},
+			"apn": {
+				"apn": "0011111100"
+			}
+		}]
+	},
+	"propertyDescription": {},
+	"correspondenceMail": {},
+	"queueItemId": "111746"
+}
